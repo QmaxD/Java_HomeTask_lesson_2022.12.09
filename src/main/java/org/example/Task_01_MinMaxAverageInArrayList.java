@@ -29,7 +29,7 @@ public class Task_01_MinMaxAverageInArrayList {
         numbersList = new ArrayList<Double>(elementsNumberInList);
     }
 
-    public void StartTask_01()
+    public void Start()
     {
         System.out.println("Задача: Заполнить массив случайным значениями. " +
                 "Вывести максимальное, минимальное и среднее значение.");

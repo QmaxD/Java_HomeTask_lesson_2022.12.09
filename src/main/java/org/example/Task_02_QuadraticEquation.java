@@ -23,7 +23,7 @@ public class Task_02_QuadraticEquation {
         this.c = c;
     }
 
-    public void StartTask_02() {
+    public void Start() {
         System.out.println(String.format("* Введено: %s %s %s", a, b, c));
         /*System.out.println("* Задача: Алгоритм решения квадратного уравнения по известным коэффициентам");
         System.out.println("Введите значения квадратичного уравнения \"ax2 + bx + c = 0\" ниже:");
