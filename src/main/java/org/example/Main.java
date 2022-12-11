@@ -69,7 +69,7 @@ public class Main {
 
         WorkTime.StartTime();
         task5_01.WorkWithArray();
-        WorkTime.StopTime();*/
+        WorkTime.StopTime();
 
         // Задача 6: Напишите метод, заменяющий в тексте все вхождения определенной фразы на «[вырезано цензурой]».
         Task_Add_Text.WriteText();
