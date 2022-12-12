@@ -152,7 +152,7 @@ public class Task_08_Game_OneArmed_Bandit {
         }
     }
     private void PrintRegulations () {
-        System.out.println(FontColor.ANSI_YELLOW + "Если выпадет два одинаковых знака - вам вернуться ваши деньги за игру!" +
+        System.out.println(FontColor.ANSI_YELLOW + "Если выпадет два одинаковых знака - вам вернуться ваши деньги за игру!\n" +
                 "Если выпадет три одинаковых знака - бомба!!!\n" +
                 symbols[0] + " - получите к счету " + GetPrizes(0) + " очков\n" +
                 symbols[1] + " - получите к счету " + GetPrizes(1) + " очков\n" +

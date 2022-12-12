@@ -10,11 +10,12 @@ public class Task_06_Censor {
                 "заменяющий в тексте все вхождения определенной фразы на «[вырезано цензурой]».");
     }
 
-    public void CensuringPlease() {
-        String c = "XAXA";
-        String cc = "[вырезано цензурой]";
+    public void CensuringPlease(String[] censoredWords) {
+        String censor = "[вырезано цензурой]";
 
-        System.out.println(text.replace(c, cc));
+        for (int i = 0; i < censoredWords.length; i++)
+            text = text.replace(censoredWords[i], censor);
+        System.out.println(text);
     }
 
 

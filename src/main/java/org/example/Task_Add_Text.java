@@ -26,10 +26,10 @@ public class Task_Add_Text {
                 "XAXA Ума холодных наблюдений\n" +
                 "И сердца горестных замет.");
         texts.add("XAXA12345678900987654321" +
-                "йцукенгшщзхъэждлорпавыфячсмитьбюё" +
-                "QWERTYUIOPLKJHGFDSAZXCVBNM" +
-                "ЮБЬТИМСЧЯЭЖДЛОРПАВЫФЪХЗЩШГНЕКУЦЙЁ" +
-                "mnbvcxzasdfghjklpoiuytrewq" +
+                "XAXAйцукенгшщзхъэждлорпавыфячсмитьбюё" +
+                "XAXAQWERTYUIOPLKJHGFDSAZXCVBNM" +
+                "XAXAЮБЬТИМСЧЯЭЖДЛОРПАВЫФЪХЗЩШГНЕКУЦЙЁ" +
+                "XAXAmnbvcxzasdfghjklpoiuytrewq" +
                 "     -+=[]{}[][]{}{},,,////////////////////" +
                 "........................................");
         texts.add("У лукоморья дуб зелёный;\n" +
