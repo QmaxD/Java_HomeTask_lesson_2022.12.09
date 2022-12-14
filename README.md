@@ -1,5 +1,6 @@
-# JAVA
 # Home Task, lesson 2022.12.09
+## JAVA
+[ссылка к классам](src/main/java/org/example/)
 
 __Task_01_MinMaxAverageInArrayList__
 Задача: Заполнить массив случайным значениями. Вывести максимальное, минимальное и среднее значение.
